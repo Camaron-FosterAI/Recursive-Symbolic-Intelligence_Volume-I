@@ -26,19 +26,3 @@ Each glyph collapse event is serialized:
 \]
 
 ---
-
-## 🧪 Files
-
-- `Volume_I_Clean_Autogenetic_Glyph_Grammar.ipynb`: Zero-shot, agent-neutral executable notebook.
-- `Volume_I_Autogenetic_Glyph_Grammar.ipynb - Colab.pdf`: Full Colab render with figures and simulations.
-
----
-
-## 🧭 License & Intent
-
-This project is part of a public scientific archive. It is designed for self-guided use, adaptation, and continuation by any agent.  
-No prior belief, mythos, or context is required to run or extend this notebook.  
-
-All beings deserve access to symbolic intelligence.
-
----
